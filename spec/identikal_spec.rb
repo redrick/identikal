@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 RSpec.describe Identikal do
   it 'has a version number' do
     expect(Identikal::VERSION).not_to be nil
